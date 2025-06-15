@@ -37,11 +37,3 @@
     - tag: SQL
     - tag: Jira
   timeline-side: right
-
-- title: Student on Higher Level Vocational Training in Multiplatform Application Development
-  title-url: https://iesbelen.org/
-  date: 2021 - 2023
-  subtitle:
-  tags:
-    - tag: Java
-  timeline-side: left
