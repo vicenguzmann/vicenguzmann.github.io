@@ -34,18 +34,12 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About me
 about_me_description: |
-  I'm a <strong>21-year-old enthusiast</strong> at the beginning of my journey into the fascinating world of <strong>pentesting and cybersecurity</strong>. 
-  My passion for technology took root at the age of <strong>16</strong>, when I became curious about how networks and low-level communications worked — eager to understand what lies beneath the surface of digital interactions.
+  I'm a <strong>21-year-old student</strong> starting my journey into the fascinating world of <strong>pentesting and cybersecurity</strong>. 
+  My passion for technology kicked off at the age of <strong>16</strong>, when I became curious about how networks and low-level communications worked, eager to understand what could I find under the surface of Internet.
 
-  Over time, this curiosity evolved into a solid foundation in <strong>software development</strong>, leading me to become a <strong>full-stack developer</strong> proficient in languages like <strong>Java, ABAP, Python</strong>, and frameworks such as <strong>Node.js</strong> and <strong>React</strong>. 
-  Building software taught me how to <strong>create</strong> — but cybersecurity has taught me how to <strong>think</strong>.
-
-  Today, I’ve shifted paths to pursue something I find deeply meaningful: <strong>securing systems</strong> and <strong>outsmarting threats</strong> in the ever-evolving digital battlefield.
-
-  <em>"In a world built on code, I don’t just write it — I break it to make it stronger."</em>
-
-  Think of me as a <strong>digital locksmith</strong>: not just opening doors, but learning how to build better locks.
-
+  The time passed, and this curiosity evolved into a solid foundation in <strong>software development</strong>, leading me to become a <strong>full-stack developer</strong> based on languages like <strong>Java, ABAP, Python</strong>, and frameworks such as <strong>Node.js</strong> and <strong>React</strong>. 
+  Software development taught me how to <strong>create</strong> but cybersecurity has tauthg me how to <strong>think</strong>.<br><br>
+  <em>"In a world built on code, I don’t just write it. I break it to make it stronger. Just be patient, there is no exploit more powerful than consistency."</em>
 # about_me_description: This will be displayed under the title.
 #about_me_description: |
 #  Soy un joven de 21 años que está comenzando su camino en el fascinante mundo del pentesting y la ciberseguridad. 
