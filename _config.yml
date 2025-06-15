@@ -34,7 +34,20 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About me
 # about_me_description: This will be displayed under the title.
-about_me_description: I'm a 21-year-old enthusiast at the beginning of my journey into the fascinating world of pentesting and cybersecurity. My passion for technology took root at the age of 16, when I became curious about how networks and low-level communications worked — eager to understand what lies beneath the surface of digital interactions. Over time, this curiosity evolved into a solid foundation in software development, leading me to become a full-stack developer proficient in languages like Java, ABAP, Python, and frameworks such as Node.js and React. Building software taught me how to create — but cybersecurity has taught me how to think. Today, I’ve shifted paths to pursue something I find deeply meaningful: securing systems and outsmarting threats in the ever-evolving digital battlefield.
+about_me_description: |
+  Soy un joven de 21 años que está comenzando su camino en el fascinante mundo del pentesting y la ciberseguridad. 
+  Mi pasión por la tecnología nació a los 16, cuando empecé a interesarme por cómo funcionaban las redes y las comunicaciones a bajo nivel, con ganas de entender qué había debajo de la superficie de lo digital.
+
+  Con el tiempo, esa curiosidad se transformó en una base sólida en el desarrollo de software, lo que me llevó a formarme como desarrollador fullstack, trabajando con lenguajes como Java, ABAP, Python, y frameworks como Node.js y React. 
+  Desarrollar software me enseñó a construir, pero la ciberseguridad me ha enseñado a pensar.
+
+  Hoy he decidido cambiar de rumbo y dedicarme a algo que considero realmente significativo: proteger sistemas y anticiparme a las amenazas en este campo digital que cambia constantemente.
+
+  "En un mundo construido con código, no solo lo escribo — lo rompo para hacerlo más fuerte."
+
+  Piensa en mí como un cerrajero digital: no solo abro puertas, sino que aprendo a construir mejores cerraduras.
+
+#about_me_description: I'm a 21-year-old enthusiast at the beginning of my journey into the fascinating world of pentesting and cybersecurity. My passion for technology took root at the age of 16, when I became curious about how networks and low-level communications worked — eager to understand what lies beneath the surface of digital interactions. Over time, this curiosity evolved into a solid foundation in software development, leading me to become a full-stack developer proficient in languages like Java, ABAP, Python, and frameworks such as Node.js and React. Building software taught me how to create — but cybersecurity has taught me how to think. Today, I’ve shifted paths to pursue something I find deeply meaningful: securing systems and outsmarting threats in the ever-evolving digital battlefield.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
