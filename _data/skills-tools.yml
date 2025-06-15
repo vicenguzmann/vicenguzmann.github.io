@@ -11,9 +11,6 @@
 - name: Bash
   weight: 2
 
-- name: Travis CI
-  weight: 1
-
 - name: MS Office
   weight: 5
 
