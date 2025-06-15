@@ -127,4 +127,3 @@ exclude:
     "package.json",
   ]
 
-theme: vicenguzmann.github.io
