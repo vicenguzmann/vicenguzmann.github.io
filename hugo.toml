@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Vicen Guzman Poveda'
+theme = "hugo-liftoff"
+baseURL = "https://vicenguzmann.github.io/"
