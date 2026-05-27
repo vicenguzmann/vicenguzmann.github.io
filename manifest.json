@@ -1,7 +1,7 @@
 {
-  "name": "Abid Ahmad - Ethical Hacker & Cyber Security Specialist",
-  "short_name": "Abid Ahmad",
-  "description": "Portfolio of Abid Ahmad, Ethical Hacker & Cyber Security Specialist",
+  "name": "Vicente Guzmán Poveda - Offensive Security Student",
+  "short_name": "Vicen",
+  "description": "Portfolio of Vicente Guzmán Poveda, offensive security student focused on Active Directory, Linux privilege escalation, web exploitation, PNPT and OSCP.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
